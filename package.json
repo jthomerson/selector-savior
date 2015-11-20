@@ -24,7 +24,11 @@
   },
   "homepage": "https://github.com/jthomerson/selector-savior#readme",
   "dependencies": {
+    "cheerio": "^0.19.0",
     "class.extend": "^0.9.1",
+    "commander": "^2.9.0",
+    "css-selector-parser": "^1.1.0",
+    "moment": "^2.10.6",
     "q": "^1.4.1",
     "underscore": "^1.8.3"
   }
